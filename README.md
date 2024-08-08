@@ -375,3 +375,4 @@ User-MacBook-Pro  niffler % bash docker-compose-e2e.sh gql
 #### 4. Allure доступен по адресу: http://localhost:5050/allure-docker-service/projects/niffler-e-2-e-tests/reports/latest/index.html
 
 <img src="/niffler-frontend/public/images/niffler-logo.png" width="250">
+hello from python
